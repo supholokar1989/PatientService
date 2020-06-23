@@ -1,0 +1,18 @@
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\bin\Debug\netcoreapp3.1\Search.Domain.deps.json
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\bin\Debug\netcoreapp3.1\Search.Domain.dll
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\bin\Debug\netcoreapp3.1\Search.Domain.pdb
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.csprojAssemblyReference.cache
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.AssemblyInfoInputs.cache
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.AssemblyInfo.cs
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.csproj.CoreCompileInputs.cache
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.dll
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.pdb
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\bin\Debug\netcoreapp3.1\Search.Domain.deps.json
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\bin\Debug\netcoreapp3.1\Search.Domain.dll
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\bin\Debug\netcoreapp3.1\Search.Domain.pdb
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.csprojAssemblyReference.cache
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.AssemblyInfoInputs.cache
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.AssemblyInfo.cs
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.csproj.CoreCompileInputs.cache
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.dll
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Domain\obj\Debug\netcoreapp3.1\Search.Domain.pdb

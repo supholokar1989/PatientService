@@ -1,0 +1,18 @@
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\bin\Debug\netcoreapp3.1\Search.Infrastructure.deps.json
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\bin\Debug\netcoreapp3.1\Search.Infrastructure.dll
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\bin\Debug\netcoreapp3.1\Search.Infrastructure.pdb
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.csprojAssemblyReference.cache
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.AssemblyInfoInputs.cache
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.AssemblyInfo.cs
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.dll
+D:\Development Environment\POC\Dev Environment\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.pdb
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\bin\Debug\netcoreapp3.1\Search.Infrastructure.deps.json
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\bin\Debug\netcoreapp3.1\Search.Infrastructure.dll
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\bin\Debug\netcoreapp3.1\Search.Infrastructure.pdb
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.csprojAssemblyReference.cache
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.AssemblyInfoInputs.cache
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.AssemblyInfo.cs
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.dll
+D:\Development Environment\PROJECT\iPasHealthCare\Search.Infrastructure\obj\Debug\netcoreapp3.1\Search.Infrastructure.pdb
